@@ -1,0 +1,37 @@
+2021-05-06 14:25:27,989 WARN  [SoapUI] Missing folder [C:\Users\DivyaKotteeswaran\Desktop\Project Framework\my-app\ext] for external libraries
+2021-05-06 14:25:28,180 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\DivyaKotteeswaran\soapui-settings.xml]
+2021-05-06 14:25:30,869 INFO  [WsdlProject] Loaded project from [file:/C:/Users/DivyaKotteeswaran/Desktop/Project%20Framework/my-app/Maven-Jenkins-demo-soapui-project.xml]
+2021-05-06 14:25:31,330 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [Maven Jenkins demo]
+2021-05-06 14:25:31,332 INFO  [SoapUITestCaseRunner] Running Project [Maven Jenkins demo], runType = SEQUENTIAL
+2021-05-06 14:25:31,358 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Traditional Login and logout]
+2021-05-06 14:25:31,366 INFO  [SoapUITestCaseRunner] running step [Username and Password and Purchase item]
+2021-05-06 14:25:31,405 INFO  [SoapUITestCaseRunner] running step [Username and password transfer]
+2021-05-06 14:25:31,608 INFO  [SoapUITestCaseRunner] running step [Call Login Service]
+2021-05-06 14:25:32,222 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DivyaKotteeswaran/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xop.xsd with targetNamespace http://www.w3.org/2004/08/xop/include
+2021-05-06 14:25:32,235 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DivyaKotteeswaran/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/XMLSchema.xsd with targetNamespace http://www.w3.org/2001/XMLSchema
+2021-05-06 14:25:32,241 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DivyaKotteeswaran/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xml.xsd with targetNamespace http://www.w3.org/XML/1998/namespace
+2021-05-06 14:25:32,246 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DivyaKotteeswaran/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/swaref.xsd with targetNamespace http://ws-i.org/profiles/basic/1.1/xsd
+2021-05-06 14:25:32,248 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DivyaKotteeswaran/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xmime200505.xsd with targetNamespace http://www.w3.org/2005/05/xmlmime
+2021-05-06 14:25:32,249 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DivyaKotteeswaran/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xmime200411.xsd with targetNamespace http://www.w3.org/2004/11/xmlmime
+2021-05-06 14:25:32,252 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DivyaKotteeswaran/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEnvelope.xsd with targetNamespace http://schemas.xmlsoap.org/soap/envelope/
+2021-05-06 14:25:32,256 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DivyaKotteeswaran/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding.xsd with targetNamespace http://schemas.xmlsoap.org/soap/encoding/
+2021-05-06 14:25:32,261 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DivyaKotteeswaran/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEnvelope12.xsd with targetNamespace http://www.w3.org/2003/05/soap-envelope
+2021-05-06 14:25:32,263 INFO  [SchemaUtils] Added default schema from file:/C:/Users/DivyaKotteeswaran/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding12.xsd with targetNamespace http://www.w3.org/2003/05/soap-encoding
+2021-05-06 14:25:32,264 INFO  [SchemaUtils] Loading schema types from [file:/C:/Users/DivyaKotteeswaran/Downloads/API%20Re%20skill/NewResources/Resources/ShoppingService.wsdl]
+2021-05-06 14:25:32,264 INFO  [SchemaUtils] Getting schema file:/C:/Users/DivyaKotteeswaran/Downloads/API%20Re%20skill/NewResources/Resources/ShoppingService.wsdl
+2021-05-06 14:25:32,273 INFO  [SchemaUtils] Getting schema file:\C:\Users\DivyaKotteeswaran\Downloads\API%20Re%20skill\NewResources\Resources\ShoppingService.xsd
+2021-05-06 14:25:32,399 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-06 14:25:32,400 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2021-05-06 14:25:32,400 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-06 14:25:32,401 INFO  [SoapUITestCaseRunner] running step [Pass sessionid from login to logout]
+2021-05-06 14:25:32,405 INFO  [SoapUITestCaseRunner] running step [purchase item]
+2021-05-06 14:25:32,405 INFO  [SoapUITestCaseRunner] running step [Call Purchase service]
+2021-05-06 14:25:32,474 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-06 14:25:32,474 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2021-05-06 14:25:32,475 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-06 14:25:32,475 INFO  [SoapUITestCaseRunner] running step [Call Logout Service]
+2021-05-06 14:25:32,529 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-06 14:25:32,529 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2021-05-06 14:25:32,530 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2021-05-06 14:25:32,536 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Traditional Login and logout], time taken: 1147ms, status: FINISHED
+2021-05-06 14:25:32,541 INFO  [SoapUITestCaseRunner] Project [Maven Jenkins demo] finished with status [FINISHED] in 1205ms
