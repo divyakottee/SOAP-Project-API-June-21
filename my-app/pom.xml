@@ -28,7 +28,7 @@
 					<execution>
 						<phase>test</phase>
 						<configuration>
-							<projectFile>Maven-Jenkins-demo-soapui-project.xml</projectFile>
+							<projectFile>SOAP-Project-soapui-project.xml</projectFile>
 							<outputFolder>${project.build.directory}/surefire-reports</outputFolder>
 							<junitReport>true</junitReport>
 							<printReport>false</printReport>
